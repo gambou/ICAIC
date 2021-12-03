@@ -1,0 +1,130 @@
+body{
+    background-color:whitesmoke;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    border: 8px solid darkblue;
+    border-radius: 10px ;
+}
+*{                                                              
+    margin: 3px;
+    padding: 2px;
+       
+ }
+.article{
+
+   font-size: initial;
+}
+ header{
+    font-size: 50px;
+    color: darkblue;
+    margin: 10px auto;
+    padding: 5px ;
+    text-align: center;
+}
+.article h2{
+    margin: 0 0 10px;
+    font-size: 25px;
+    color: darkblue;
+}
+.article h3 {
+font-size: 25px;
+color: darkblue;
+}
+.article h4 {
+    font-size: 20px;
+    color: darkblue;
+    }
+    .article h5 {
+        font-size: 25px;
+        color: darkblue;
+        }
+    
+        .article p {
+            font-size: 15px;
+            color: black;
+
+            }
+            .article p strong {
+                color: blue;
+            
+                }
+                .article strong {
+                    font: size 70px;
+                    color: red;
+                }
+            .article ul li {
+                font-size: 18px;
+                }
+             audio {
+                border: 5px solid navy ;
+                border-radius: 10px;
+
+             }  
+    footer{
+       text-align: center;
+       color: darkorchid;
+    
+    }
+    #contenido{
+        color: darkblue;
+    }
+    video{
+     border:10px solid navy; 
+     border-radius: 10px ;  
+    }
+    ul{
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+    overflow: hidden;
+         background-color: darkcyan;
+      border-radius: 10px ;
+    }
+li{
+    float: left;
+}
+li a{
+    float: left;
+    display:block;
+    color: red;
+    text-align: center;
+    padding: 20px 20px ;
+    text-decoration: none;
+
+
+}
+li a:visited{
+    color:black;
+
+}
+li a:hover{
+
+    color: red;
+    
+
+}
+figure{
+float: left;
+}
+figure img{
+    padding: 50px ;
+    border-radius: 20px;
+    -webkit-transform: -webkit-transform 0.3s ease-int-out 0.1s;
+    
+    }
+    figure img:hover{
+         -webkit-transform: scale(1.2);
+        
+        }
+        h6{
+            font-size: 40px;
+            color:darkblue;
+        }
+        ins{
+            font-size: 15PX;
+            color:red;
+        }
+        h7{
+            font-size: 40px;
+            color:darkred;
+        }
